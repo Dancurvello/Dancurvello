@@ -1,4 +1,4 @@
-- 👋 Olá, @Dancurvello
+- 👋 Olá, sou o @Dancurvello
 - 👀 Me interesso por temas de tecnologias
 - 🌱 Atualmente estou estudando front-end e back-end
 - 💞️ Estou à procura de uma oportunidade em TI
