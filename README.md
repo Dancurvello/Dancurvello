@@ -29,8 +29,4 @@
   </div>
   
   
-<div> 
-  
-  ![Snake animation](https://github.com/dancurvello/dancurvello/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+![Snake animation](https://github.com/dancurvello/dancurvello/blob/output/github-contribution-grid-snake.svg)
