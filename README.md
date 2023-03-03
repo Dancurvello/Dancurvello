@@ -2,7 +2,7 @@
 
 - 👀 Possuo conhecimentos em front-end (HTML, CSS, JavaScript, Python, ASP Clássico)
 - 🌱 Atualmente estou estudando ASP CLássico
-- 💞️ Sou estagiário desenvolvedor FULL STACK
+- 💞️ Sou estagiário desenvolvedor
 - 📫 Contate-me no email: curvellodaniel@gmail.com
 
 <div>
