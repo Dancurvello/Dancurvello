@@ -2,7 +2,7 @@
 
 - 👀 Possuo conhecimentos em front-end e back-end (HTML, CSS, JavaScript, Reactjs, Python, ASP Clássico, Java)
 - 🌱 Atualmente estou estudando JAVA
-- 💞️ Sou estagiário desenvolvedor
+- 💞️ Sou Desenvolvedor
 - 📫 Contate-me no email: curvellodaniel@gmail.com
 
 <div>
