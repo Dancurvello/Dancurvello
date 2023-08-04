@@ -1,7 +1,7 @@
 ## OLÁ! Eu sou o Daniel Curvello, que bom que chegou no meu perfil, seja bem-vindo!
 
-- 👀 Possuo conhecimentos em front-end e back-end (HTML, CSS, JavaScript, Python, ASP Clássico)
-- 🌱 Atualmente estou estudando ASP CLássico
+- 👀 Possuo conhecimentos em front-end e back-end (HTML, CSS, JavaScript, Reactjs, Python, ASP Clássico, Java)
+- 🌱 Atualmente estou estudando JAVA
 - 💞️ Sou estagiário desenvolvedor
 - 📫 Contate-me no email: curvellodaniel@gmail.com
 
