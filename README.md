@@ -1,4 +1,4 @@
-## OLÁ! Eu sou o Daniel Curvello, que bom que chegou no meu perfil, seja bem-vindo!
+## Hi, I'm Daniel, welcome!
 
 - 👀 Possuo conhecimentos em front-end e back-end (HTML, CSS, JavaScript, Reactjs, Python, ASP Clássico, Java)
 - 🌱 Atualmente estou estudando JAVA
