@@ -1,9 +1,7 @@
 ## Hi, I'm Daniel, welcome!
 
-- 👀 Possuo conhecimentos em front-end e back-end (HTML, CSS, JavaScript, Reactjs, Python, ASP Clássico, Java)
-- 🌱 Atualmente estou estudando JAVA
-- 💞️ Sou Desenvolvedor
-- 📫 Contate-me no email: curvellodaniel@gmail.com
+- 👀 I'm Software Engineer | Full Stack Developer | Content Creator
+- 📫 Contact me: curvellodaniel@gmail.com
 
 <div>
 
