@@ -12,7 +12,7 @@
 
 - That's my linktree [https://linktr.ee/danielcurvello](https://linktr.ee/danielcurvello)
 
-- 💬 Ask me about **Java, React, Go, Docker**
+- 💬 Ask me about **Java, React, Go, Python**
 
 - 📫 How to reach me **curvellodaniel@gmail.com**
 
